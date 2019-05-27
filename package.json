@@ -1,0 +1,21 @@
+{
+  "name": "@datagazer/foundation",
+  "version": "1.0.0-dev.1",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "@angular/core": "8.0.0"
+  },
+  "main": "bundles/foundation.umd.js",
+  "module": "fesm5/foundation.js",
+  "es2015": "fesm2015/foundation.js",
+  "esm5": "esm5/foundation.js",
+  "esm2015": "esm2015/foundation.js",
+  "fesm5": "fesm5/foundation.js",
+  "fesm2015": "fesm2015/foundation.js",
+  "typings": "foundation.d.ts",
+  "metadata": "foundation.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
